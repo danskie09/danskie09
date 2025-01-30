@@ -6,7 +6,7 @@ I created this GitHub Account for my Capstone Project, focusing on web developme
 ### 🌐 Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:banaybanaydaniel09@gmail.com)
 
-## 🛠️ Technologies & Tools Used
+## 🛠️ Technologies & Tools Used/Tried
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
