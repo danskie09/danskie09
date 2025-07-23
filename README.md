@@ -1,4 +1,4 @@
-# Hi there! I'm Daniel A. Banaybanay 👋
+# Hi there! I'm Daniel 👋
 
 ## 🚀 About Me
 I created this GitHub Account for my Capstone Project, focusing on web development and mobile application technologies.
