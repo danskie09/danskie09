@@ -4,7 +4,7 @@
 I created this GitHub Account for my Capstone Project, focusing on web development and mobile application technologies.
 
 ### 🌐 Connect with Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:banaybanaydaniel09@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rttre1973@gmail.com)
 
 ## 🛠️ Technologies & Tools Used/Tried
 
